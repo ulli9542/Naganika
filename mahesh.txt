@@ -1,10 +1,17 @@
 Mahesh added files
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 5ab7af4b8c8555d8434dfe024b7a2cae99f67ddb
 public class Anil {
    public static void main(String args[]) {
 
      System.out.println("Mahesh Kumar naidu");
 
+<<<<<<< HEAD
+    }
+=======
     }
 
+>>>>>>> 5ab7af4b8c8555d8434dfe024b7a2cae99f67ddb

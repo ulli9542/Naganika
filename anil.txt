@@ -9,4 +9,7 @@ class {
    System.out.println("anil")
 }
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 5ab7af4b8c8555d8434dfe024b7a2cae99f67ddb
